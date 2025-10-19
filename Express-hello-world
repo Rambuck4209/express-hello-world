@@ -1,0 +1,4 @@
+express-hello-world/
+├── index.js              ← Replace with our webhook logic
+├── package.json          ← Update with our dependencies
+├── .env.example          ← Add your Shopify secrets placeholder
